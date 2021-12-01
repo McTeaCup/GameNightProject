@@ -1,2 +1,1 @@
 # GameNightProject
-# sug min kuk
